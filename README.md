@@ -106,7 +106,8 @@ else:
 ```
 <hr>
 <h2>Output:</h2>
-![image](https://github.com/user-attachments/assets/5bce2c24-508e-4b8b-a6eb-d1946c77d5d3)
+
+![image](https://github.com/user-attachments/assets/41707e69-89e8-4fba-ba13-f303f9fbadef)
 
 <hr>
 <h2>Result:</h2>
